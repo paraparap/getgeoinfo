@@ -1,30 +1,40 @@
-[Mon Mar  2 18:35:24 2020] 127.0.0.1:44378 [200]: /index.html
-[Mon Mar  2 18:37:07 2020] 127.0.0.1:44386 [200]: /
-[Mon Mar  2 18:37:08 2020] 127.0.0.1:44390 [200]: /js/main.js
-[Mon Mar  2 18:37:08 2020] 127.0.0.1:44394 [200]: /js/location.js
-[Mon Mar  2 18:37:08 2020] 127.0.0.1:44398 [200]: /js/info.js
-[Mon Mar  2 18:37:09 2020] 127.0.0.1:44402 [200]: /
-[Mon Mar  2 18:37:10 2020] 127.0.0.1:44406 [200]: /js/main.js
-[Mon Mar  2 18:37:10 2020] 127.0.0.1:44410 [200]: /js/location.js
-[Mon Mar  2 18:37:10 2020] 127.0.0.1:44414 [200]: /js/info.js
-[Mon Mar  2 18:37:11 2020] 127.0.0.1:44418 [200]: /php/info.php
-[Mon Mar  2 18:37:11 2020] 127.0.0.1:44422 [404]: /favicon.ico - No such file or directory
-[Mon Mar  2 18:37:18 2020] PHP Notice:  Undefined index: Una in /root/Desktop/getgeoinfo/php/error.php on line 5
-[Mon Mar  2 18:37:18 2020] PHP Notice:  Undefined index: Time in /root/Desktop/getgeoinfo/php/error.php on line 6
-[Mon Mar  2 18:37:18 2020] PHP Notice:  Undefined index: Unk in /root/Desktop/getgeoinfo/php/error.php on line 7
-[Mon Mar  2 18:37:18 2020] 127.0.0.1:44426 [200]: /php/error.php
-[Mon Mar  2 18:40:39 2020] 127.0.0.1:44434 [200]: /
-[Mon Mar  2 18:40:41 2020] 127.0.0.1:44438 [200]: /js/main.js
-[Mon Mar  2 18:40:41 2020] 127.0.0.1:44444 [200]: /js/location.js
-[Mon Mar  2 18:40:41 2020] 127.0.0.1:44446 [200]: /js/info.js
-[Mon Mar  2 18:40:41 2020] 127.0.0.1:44450 [200]: /
-[Mon Mar  2 18:40:42 2020] 127.0.0.1:44454 [200]: /js/main.js
-[Mon Mar  2 18:40:42 2020] 127.0.0.1:44458 [200]: /js/location.js
-[Mon Mar  2 18:40:42 2020] 127.0.0.1:44462 [200]: /js/info.js
-[Mon Mar  2 18:40:43 2020] 127.0.0.1:44466 [200]: /php/info.php
-[Mon Mar  2 18:40:43 2020] 127.0.0.1:44470 [404]: /favicon.ico - No such file or directory
-[Mon Mar  2 18:40:47 2020] 127.0.0.1:44474 [200]: /php/result.php
-PHP 7.3.10-1+b1 Development Server started at Mon Mar  2 18:35:21 2020
-Listening on http://0.0.0.0:8080
-Document root is /root/Desktop/getgeoinfo
-Press Ctrl-C to quit.
+[Tue Mar  3 01:57:03 2020] 127.0.0.1:45714 [200]: /index.html
+[Tue Mar  3 01:57:50 2020] 127.0.0.1:45722 [200]: /
+[Tue Mar  3 01:57:51 2020] 127.0.0.1:45728 [200]: /js/location.js
+[Tue Mar  3 01:57:51 2020] 127.0.0.1:45730 [200]: /js/main.js
+[Tue Mar  3 01:57:51 2020] 127.0.0.1:45734 [200]: /js/info.js
+[Tue Mar  3 01:57:52 2020] 127.0.0.1:45738 [200]: /
+[Tue Mar  3 01:57:53 2020] 127.0.0.1:45742 [200]: /js/main.js
+[Tue Mar  3 01:57:53 2020] 127.0.0.1:45746 [200]: /js/location.js
+[Tue Mar  3 01:57:53 2020] 127.0.0.1:45750 [200]: /js/info.js
+[Tue Mar  3 01:57:54 2020] 127.0.0.1:45754 [200]: /interface.jpg
+[Tue Mar  3 01:57:57 2020] 127.0.0.1:45762 [200]: /php/info.php
+[Tue Mar  3 01:57:57 2020] 127.0.0.1:45760 [404]: /favicon.ico - No such file or directory
+[Tue Mar  3 01:57:59 2020] 127.0.0.1:45766 [200]: /window-1.png
+[Tue Mar  3 01:58:07 2020] 127.0.0.1:45770 [200]: /window-2.png
+[Tue Mar  3 01:58:35 2020] 127.0.0.1:45774 [200]: /php/result.php
+[Tue Mar  3 01:59:41 2020] 127.0.0.1:45780 [200]: /
+[Tue Mar  3 01:59:47 2020] 127.0.0.1:45788 [200]: /js/main.js
+[Tue Mar  3 01:59:49 2020] 127.0.0.1:45792 [200]: /
+[Tue Mar  3 01:59:51 2020] 127.0.0.1:45796 [200]: /js/location.js
+[Tue Mar  3 01:59:51 2020] 127.0.0.1:45800 [200]: /js/main.js
+[Tue Mar  3 01:59:52 2020] 127.0.0.1:45804 [200]: /js/location.js
+[Tue Mar  3 01:59:52 2020] 127.0.0.1:45808 [200]: /js/info.js
+[Tue Mar  3 01:59:53 2020] 127.0.0.1:45812 [200]: /interface.jpg
+[Tue Mar  3 01:59:57 2020] 127.0.0.1:45816 [200]: /
+[Tue Mar  3 01:59:58 2020] 127.0.0.1:45820 [200]: /js/location.js
+[Tue Mar  3 01:59:58 2020] 127.0.0.1:45824 [200]: /js/main.js
+[Tue Mar  3 01:59:58 2020] 127.0.0.1:45828 [200]: /js/info.js
+[Tue Mar  3 01:59:58 2020] 127.0.0.1:45832 [200]: /interface.jpg
+[Tue Mar  3 01:59:58 2020] 127.0.0.1:45836 [200]: /php/info.php
+[Tue Mar  3 01:59:58 2020] 127.0.0.1:45840 [404]: /favicon.ico - No such file or directory
+[Tue Mar  3 01:59:59 2020] 127.0.0.1:45844 [200]: /
+[Tue Mar  3 02:00:00 2020] 127.0.0.1:45848 [200]: /js/main.js
+[Tue Mar  3 02:00:00 2020] 127.0.0.1:45852 [200]: /js/location.js
+[Tue Mar  3 02:00:00 2020] 127.0.0.1:45856 [200]: /js/info.js
+[Tue Mar  3 02:00:00 2020] 127.0.0.1:45860 [200]: /interface.jpg
+[Tue Mar  3 02:00:02 2020] 127.0.0.1:45864 [200]: /php/info.php
+[Tue Mar  3 02:00:02 2020] 127.0.0.1:45868 [404]: /favicon.ico - No such file or directory
+[Tue Mar  3 02:00:11 2020] 127.0.0.1:45872 [200]: /window-1.png
+[Tue Mar  3 02:00:15 2020] 127.0.0.1:45876 [200]: /window-2.png
+[Tue Mar  3 02:00:27 2020] 127.0.0.1:45880 [200]: /php/result.php
