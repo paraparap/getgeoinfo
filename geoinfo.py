@@ -9,7 +9,7 @@ row = []
 info = 'php/info.txt'
 result = 'php/result.txt'
 def server():
-	print('starting php', end='')
+	print('starting php')
 	with open('logs/php.log', 'w') as phplog:
 		subp.Popen(['php', '-S', '0.0.0.0:8080'], stdout=phplog, stderr=phplog)
 		time.sleep(3)
