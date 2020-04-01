@@ -1,0 +1,34 @@
+[Wed Apr  1 18:35:44 2020] 127.0.0.1:47000 [200]: /index.html
+[Wed Apr  1 18:36:18 2020] 127.0.0.1:47008 [200]: /
+[Wed Apr  1 18:36:19 2020] 127.0.0.1:47012 [200]: /js/main.js
+[Wed Apr  1 18:36:19 2020] 127.0.0.1:47016 [200]: /js/location.js
+[Wed Apr  1 18:36:19 2020] 127.0.0.1:47020 [200]: /interface.jpg
+[Wed Apr  1 18:36:19 2020] 127.0.0.1:47024 [200]: /js/info.js
+[Wed Apr  1 18:36:20 2020] 127.0.0.1:47028 [200]: /
+[Wed Apr  1 18:36:21 2020] 127.0.0.1:47032 [200]: /js/main.js
+[Wed Apr  1 18:36:21 2020] 127.0.0.1:47036 [200]: /js/location.js
+[Wed Apr  1 18:36:21 2020] 127.0.0.1:47040 [200]: /interface.jpg
+[Wed Apr  1 18:36:21 2020] 127.0.0.1:47044 [200]: /js/info.js
+[Wed Apr  1 18:36:23 2020] 127.0.0.1:47048 [200]: /php/info.php
+[Wed Apr  1 18:36:23 2020] 127.0.0.1:47052 [404]: /favicon.ico - No such file or directory
+[Wed Apr  1 18:36:29 2020] 127.0.0.1:47056 [200]: /
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47060 [200]: /js/main.js
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47064 [200]: /js/location.js
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47074 [200]: /
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47072 [200]: /interface.jpg
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47076 [200]: /js/info.js
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47080 [200]: /interface.jpg
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47084 [200]: /js/main.js
+[Wed Apr  1 18:36:30 2020] 127.0.0.1:47088 [200]: /js/location.js
+[Wed Apr  1 18:36:31 2020] 127.0.0.1:47092 [200]: /js/info.js
+[Wed Apr  1 18:36:31 2020] 127.0.0.1:47096 [200]: /php/info.php
+[Wed Apr  1 18:36:39 2020] 127.0.0.1:47100 [200]: /
+[Wed Apr  1 18:36:40 2020] 127.0.0.1:47104 [200]: /js/main.js
+[Wed Apr  1 18:36:40 2020] 127.0.0.1:47108 [200]: /interface.jpg
+[Wed Apr  1 18:36:40 2020] 127.0.0.1:47112 [200]: /js/location.js
+[Wed Apr  1 18:36:40 2020] 127.0.0.1:47116 [200]: /js/info.js
+[Wed Apr  1 18:36:41 2020] 127.0.0.1:47120 [200]: /php/info.php
+PHP 7.3.15-3 Development Server started at Wed Apr  1 18:35:41 2020
+Listening on http://0.0.0.0:8080
+Document root is /home/paraparap/Desktop/projs/getgeoinfo
+Press Ctrl-C to quit.

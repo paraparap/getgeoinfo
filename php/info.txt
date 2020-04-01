@@ -1,0 +1,1 @@
+{"dev":[{"platform":"Linux armv7l","browser":"Chrome\/42.0.2311.111","cores":"4","ram":"not available","vendor":"not available","render":"not available","ip":"37.252.82.85","ht":"640","wd":"360","os":"Linux x86_64"}]}
